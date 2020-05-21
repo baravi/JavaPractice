@@ -33,9 +33,7 @@ public class RemoveDuplicateFromList1 {
 				list1.add(character);
 			}else {
 				
-			}
-				
-			
+			}			
 		}
 		System.out.println(list1.size());
 		
